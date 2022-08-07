@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Link for the Website https://janine-website.herokuapp.com/
+
+##Created using NodeJS, ReactJS, Redux, and Firebase with authentication
+
 ## Available Scripts
 
 In the project directory, you can run:
